@@ -1,4 +1,5 @@
-// WAP to show multilevel inheritance in java 2081-01-22
+// WAP to show multilevel inheritance in java 
+// 2081-01-22
 
 class person{
     int code;

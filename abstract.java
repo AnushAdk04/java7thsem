@@ -1,3 +1,6 @@
+// WAP to demonstrate abstract class i java.
+// 2081-01-22
+
 abstract class Geometry{
     abstract float area();
     void show(){
