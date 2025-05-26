@@ -1,3 +1,6 @@
+// Color Chooser Demo
+// 2082-02-12
+
 import java.awt.Color;
 import java.awt.event.*;
 import javax.swing.*;

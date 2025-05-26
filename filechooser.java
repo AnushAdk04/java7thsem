@@ -1,3 +1,6 @@
+// File Chooser Demo
+// 2082-02-12
+
 import java.io.*;
 import javax.swing.*;
 public class filechooser extends JFileChooser {

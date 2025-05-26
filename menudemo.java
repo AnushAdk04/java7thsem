@@ -1,3 +1,6 @@
+// Menu Demo
+// 2082-02-12
+
 import javax.swing.*;
 
 public class menudemo extends JFrame {

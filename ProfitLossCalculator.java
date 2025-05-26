@@ -1,3 +1,6 @@
+// Profit and Loss calculator
+// 2082-02-12
+
 import java.awt.event.*;
 import javax.swing.*;
 
