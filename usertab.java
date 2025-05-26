@@ -1,3 +1,6 @@
+// USER TAB Demo
+// 2082-02-12
+
 import java.awt.*;
 import javax.swing.*;
 public class usertab extends JFrame 
